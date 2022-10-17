@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T17:59:54.217807Z</date>
+  <millis>1666029594217</millis>
+  <nanos>807000</nanos>
+  <sequence>0</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Retrieve page 3 of the list of all users</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.872200Z</date>
+  <millis>1666029594872</millis>
+  <nanos>200000</nanos>
+  <sequence>1</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 1 on page 3 is: User [id=3584, name=Mohana Guha Sr., email=mohana_sr_guha@lesch.biz, gender=female, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.872798Z</date>
+  <millis>1666029594872</millis>
+  <nanos>798000</nanos>
+  <sequence>2</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 2 on page 3 is: User [id=3583, name=Anamika Verma CPA, email=cpa_anamika_verma@walter-prohaska.com, gender=female, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.873201Z</date>
+  <millis>1666029594873</millis>
+  <nanos>201000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 3 on page 3 is: User [id=3582, name=Harinakshi Gill, email=gill_harinakshi@parisian-kerluke.info, gender=male, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.873563Z</date>
+  <millis>1666029594873</millis>
+  <nanos>563000</nanos>
+  <sequence>4</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 4 on page 3 is: User [id=3581, name=Dhanadeepa Chattopadhyay, email=chattopadhyay_dhanadeepa@smitham.net, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.873918Z</date>
+  <millis>1666029594873</millis>
+  <nanos>918000</nanos>
+  <sequence>5</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 5 on page 3 is: User [id=3579, name=Aamod Dubashi, email=dubashi_aamod@schuppe-upton.io, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.874281Z</date>
+  <millis>1666029594874</millis>
+  <nanos>281000</nanos>
+  <sequence>6</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 6 on page 3 is: User [id=3578, name=Agnimitra Kapoor, email=kapoor_agnimitra@goldner.info, gender=female, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.874683Z</date>
+  <millis>1666029594874</millis>
+  <nanos>683000</nanos>
+  <sequence>7</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 7 on page 3 is: User [id=3577, name=Adityanandan Jain, email=adityanandan_jain@hessel-runolfsson.co, gender=female, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.875032Z</date>
+  <millis>1666029594875</millis>
+  <nanos>32000</nanos>
+  <sequence>8</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 8 on page 3 is: User [id=3576, name=Krishna Guha DC, email=guha_krishna_dc@kihn.biz, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.875425Z</date>
+  <millis>1666029594875</millis>
+  <nanos>425000</nanos>
+  <sequence>9</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 9 on page 3 is: User [id=3575, name=Satyen Deshpande, email=deshpande_satyen@bergstrom-yost.io, gender=female, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.875911Z</date>
+  <millis>1666029594875</millis>
+  <nanos>911000</nanos>
+  <sequence>10</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 10 on page 3 is: User [id=3574, name=Bilwa Butt, email=butt_bilwa@smitham.co, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.876471Z</date>
+  <millis>1666029594876</millis>
+  <nanos>471000</nanos>
+  <sequence>11</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total number of pages : 352</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.876842Z</date>
+  <millis>1666029594876</millis>
+  <nanos>842000</nanos>
+  <sequence>12</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sorting the retrieved user list by name </message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.877313Z</date>
+  <millis>1666029594877</millis>
+  <nanos>313000</nanos>
+  <sequence>13</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 1 Name : Aamod Dubashi</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.877636Z</date>
+  <millis>1666029594877</millis>
+  <nanos>636000</nanos>
+  <sequence>14</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 2 Name : Adityanandan Jain</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.877928Z</date>
+  <millis>1666029594877</millis>
+  <nanos>928000</nanos>
+  <sequence>15</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 3 Name : Agnimitra Kapoor</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.878219Z</date>
+  <millis>1666029594878</millis>
+  <nanos>219000</nanos>
+  <sequence>16</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 4 Name : Anamika Verma CPA</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.878511Z</date>
+  <millis>1666029594878</millis>
+  <nanos>511000</nanos>
+  <sequence>17</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 5 Name : Bilwa Butt</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.878785Z</date>
+  <millis>1666029594878</millis>
+  <nanos>785000</nanos>
+  <sequence>18</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 6 Name : Dhanadeepa Chattopadhyay</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.879089Z</date>
+  <millis>1666029594879</millis>
+  <nanos>89000</nanos>
+  <sequence>19</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 7 Name : Harinakshi Gill</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.879387Z</date>
+  <millis>1666029594879</millis>
+  <nanos>387000</nanos>
+  <sequence>20</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 8 Name : Krishna Guha DC</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.879686Z</date>
+  <millis>1666029594879</millis>
+  <nanos>686000</nanos>
+  <sequence>21</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 9 Name : Mohana Guha Sr.</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.879980Z</date>
+  <millis>1666029594879</millis>
+  <nanos>980000</nanos>
+  <sequence>22</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no: 10 Name : Satyen Deshpande</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:54.880290Z</date>
+  <millis>1666029594880</millis>
+  <nanos>290000</nanos>
+  <sequence>23</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Last user on page 3 Satyen Deshpande</message>
+</record>
+<record>
+  <date>2022-10-17T17:59:55.332428Z</date>
+  <millis>1666029595332</millis>
+  <nanos>428000</nanos>
+  <sequence>24</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting User</message>
+  <param>Satyen Deshpande 3575</param>
+</record>
+<record>
+  <date>2022-10-17T17:59:56.017253Z</date>
+  <millis>1666029596017</millis>
+  <nanos>253000</nanos>
+  <sequence>25</sequence>
+  <logger>proj.gorest.restapi.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.restapi.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User with nonexistent ID response code 404</message>
+</record>
+</log>
